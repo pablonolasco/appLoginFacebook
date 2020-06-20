@@ -1,0 +1,4 @@
+composer require laravel/ui "^1.2"
+php artisan ui:auth
+composer require laravel/socialite
+https://laravel.com/docs/6.x/socialite
